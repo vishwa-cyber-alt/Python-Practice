@@ -2,7 +2,6 @@ m=int(input("how many marks want to enter:"))
 for i in range(0,m):
   ma.append(m)
 print(ma)
-if 
 m=int(input("how many marks want to enter:"))
 for i in range(0,m):
   ma.append(m)
