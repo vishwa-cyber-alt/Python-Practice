@@ -1,0 +1,5 @@
+a=input("enter full sentence:")
+b=input("enter word to replace:")
+c=input("wat to replace:")
+s=a.replace(b,c)
+print(s)
